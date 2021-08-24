@@ -1,1 +1,1 @@
-# Colection-of-data-structures-on-c-
+# Colection-of-data-structures
